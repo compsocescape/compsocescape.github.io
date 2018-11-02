@@ -1,0 +1,39 @@
+body
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.container
+{
+    background-color: rgb(50, 50, 50);
+    font-size: 35pt;
+    margin-top: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.container-black
+{
+    color: black;
+    background-color: inherit;
+}
+
+.container-black a:link {
+    color: black;
+}
+
+.container-black a:visited {
+    color: black;
+}
+
+.container-black a:hover {
+    color: black;
+}
+
+.container-black a:active {
+    color: black;
+}
